@@ -1,21 +1,39 @@
-**Code Study: 24 Hour Analog Clock and 24 Hour Digital Clock.**
+# 24-Hour Analog \& Digital Clock
 
-- This is a project I did so that I can further my understanding in JavaScript.
-- I referenced this video: https://www.youtube.com/watch?v=NlAw_kd2608 so that I would know 
-how to make the clock function.
-- I added more onto it like adding a 24 Hour Digital Clock in addition and adding my name in, and also making the project responsive so that it would still look nice on phone screens.  
-<br />
-<br />
+This project is a hands-on study to deepen my understanding of JavaScript. The goal was to create both an analog and digital clock that displays time in a 24-hour format. The project started from a tutorial I followed (Video Reference: [Link](https://www.youtube.com/watch?v=NlAw_kd2608) ) to understand the clock's functionality, but I expanded upon it by adding a digital clock, making the design responsive, and personalizing it with my own branding.
 
-**Other Reason Why I Decided to Make This Project**
 
-- I've always wanted to own a 24 hour analog clock, but it's hard to find in physical stores. 
-Even online, I couldn't find any. So, I wanted to make my own so that I can gaze at it, 
-because I have a hard time registering how much time I have in a day to do things.
 
-- I also added a 24 hour digital clock in there as an extra because even I get lazy reading
-an analog clock. Also because I confused myself a bit trying to read the analog clock, due 
-to its 24 hour format and me not being used to reading an analog clock in 24 hour format.
-It's slightly challenging to read the minutes. But I think I'll get used to it eventually.
+## Technology Used
 
+* HTML
+* CSS
+* JavaScript
+
+
+
+## Live Demo
+
+[24-Hour Analog \& Digital Clock - Live Demo](https://project-24hr-analog-digital-clock.netlify.app/)
+
+
+
+## Screenshot
+
+![24 Hour Analog & Digital Clock](./screenshots/project-24hr-analog-digital-clock.png)
+
+
+
+## Features
+
+* 24-Hour Analog Clock: A classic analog clock showing time in the 24-hour format.
+* 24-Hour Digital Clock: Displays the time in a 24-hour digital format.
+* Responsive Design: The layout adjusts seamlessly for different screen sizes, ensuring the clock looks good on mobile devices as well as desktops.
+* Custom Design Elements: Personal branding with my name integrated into the clock interface.
+
+
+
+## Project Motivation
+
+I’ve always been fascinated by 24-hour analog clocks, but I found it challenging to find one that suits my needs, whether physically or online. This project was an opportunity to create my own. Due to how challenging it can be to read the minutes on the 24-hour analog clock, I added a 24-hour digital clock as well to make reading the time easier.
 
