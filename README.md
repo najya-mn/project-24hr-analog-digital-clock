@@ -14,7 +14,7 @@ This project is a hands-on study to deepen my understanding of JavaScript. The g
 
 ## Live Demo
 
-[24-Hour Analog \& Digital Clock - Live Demo](https://project-24hr-analog-digital-clock.netlify.app/)
+[24-Hour Analog \& Digital Clock - Live Demo](https://najya-mn.github.io/project-24hr-analog-digital-clock/)
 
 
 
